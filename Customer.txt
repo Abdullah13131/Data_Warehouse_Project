@@ -1,0 +1,201 @@
+Customer_ID,Customer_Name,Customer_Address,Customer_Phone
+1,Rockwell,9 Sutteridge Terrace,663-790-8414
+2,Tab,5502 Eggendart Place,111-101-0136
+3,Harman,69144 Annamark Drive,409-228-1800
+4,Eal,147 Susan Drive,610-757-1807
+5,Nealy,48 Vahlen Place,234-422-0422
+6,Sharon,1 Commercial Hill,438-333-6438
+7,Crissy,0 Continental Point,783-796-4193
+8,Marion,928 Arrowood Plaza,746-650-4772
+9,Cobb,359 Birchwood Park,254-909-8260
+10,Lotte,1045 Nobel Place,889-654-1115
+11,Brien,5363 Fairview Street,780-942-7308
+12,Pacorro,0851 Banding Trail,496-107-4259
+13,Dee,1 Holmberg Center,206-909-8010
+14,Sloan,31 3rd Junction,125-840-2067
+15,Karil,5167 Buell Circle,977-792-9764
+16,Emmalynne,09 Leroy Court,834-679-6516
+17,Pascale,07057 Thierer Pass,779-575-1316
+18,Sergei,0416 Schurz Court,667-175-9345
+19,Ruthann,6 Morning Hill,869-797-4796
+20,Rosamond,1710 Pearson Parkway,172-447-8148
+21,Keelby,593 Hauk Pass,727-388-2545
+22,Emeline,20172 Roth Place,474-521-0513
+23,Parker,44634 Grayhawk Junction,300-410-0749
+24,Crysta,50 Forster Drive,310-559-3128
+25,Sibby,2 Johnson Junction,678-724-7427
+26,Corrina,58 Bellgrove Hill,587-581-6633
+27,Timothea,10 Eagle Crest Point,404-108-5387
+28,Bernette,4 Goodland Center,621-798-8011
+29,Leontyne,9086 Eliot Hill,415-279-9570
+30,Aguste,2 Doe Crossing Place,767-296-5612
+31,Karlis,5 Maple Avenue,708-453-8380
+32,Jeni,834 Oneill Parkway,212-113-0646
+33,Freddy,96 Moland Alley,310-604-9966
+34,Ivor,37 Reindahl Plaza,192-862-2588
+35,Lisabeth,3 Garrison Court,544-344-0175
+36,Dominick,4 Corscot Circle,834-904-1845
+37,Clarette,9492 Esch Crossing,570-550-7700
+38,Wolf,35 Oxford Street,586-977-2482
+39,Ericka,735 Arapahoe Parkway,138-139-1963
+40,Candy,7922 Lakeland Terrace,871-837-6501
+41,Sonny,07 Veith Terrace,854-760-0282
+42,Nisse,5 Paget Court,356-804-0356
+43,Averill,54020 Lillian Road,850-454-7205
+44,Lelia,8 Everett Avenue,814-135-8594
+45,Shamus,9 Dunning Circle,757-526-6158
+46,Brod,26300 Dawn Way,593-837-9108
+47,Alyce,632 Mockingbird Street,627-940-8074
+48,Hamel,93211 Cody Trail,945-866-3156
+49,Shamus,37507 Columbus Terrace,990-507-2092
+50,Lauralee,0 Bowman Street,826-733-8688
+51,Leena,31348 Northview Junction,294-923-8981
+52,Dukey,980 Service Court,988-726-8355
+53,Lesli,8841 Mccormick Street,670-398-4320
+54,Rossy,9914 Calypso Crossing,385-144-4185
+55,Moselle,34 Delladonna Hill,452-400-1088
+56,Prudy,931 Bartelt Park,860-306-7066
+57,Ferdinande,5 Merry Terrace,672-247-1212
+58,Daisy,2107 Dahle Hill,915-850-9094
+59,Sybil,1 Raven Trail,369-786-1360
+60,Kaleena,06 Corscot Way,238-311-1155
+61,Madelene,1 Blue Bill Park Point,241-990-3724
+62,Grannie,41 Homewood Alley,531-766-9101
+63,Neila,40 Golden Leaf Plaza,587-534-2111
+64,Keelby,9914 Main Lane,926-651-7357
+65,Gale,5174 Sutteridge Center,956-722-1532
+66,Daveen,6 Anderson Point,982-104-5817
+67,Ephrem,2 Lotheville Road,192-958-8814
+68,Antonin,4216 Meadow Vale Hill,636-825-3013
+69,Cecilla,98 Nobel Pass,598-614-5939
+70,Berk,008 Little Fleur Road,530-306-7818
+71,Kelsy,08366 Dayton Parkway,628-764-6083
+72,Sheila,59443 Merrick Junction,874-619-0966
+73,Eleni,08897 Ridgeway Center,820-351-3174
+74,Marc,69 Prentice Street,293-319-5875
+75,Joann,7704 Gerald Street,323-791-4757
+76,Gare,5 Cordelia Parkway,936-748-3002
+77,Zackariah,31 Roth Road,508-878-9597
+78,Claiborne,9 Lotheville Crossing,704-369-1201
+79,Ashla,3 Ryan Court,772-933-3540
+80,Kerr,142 Old Gate Lane,207-231-8168
+81,Maxi,1 Brown Court,235-146-9082
+82,Katerine,90 Farwell Plaza,133-835-9373
+83,Jacquelynn,20217 Delaware Alley,686-490-6041
+84,Dorry,0 Schmedeman Park,575-479-7498
+85,Evangelin,36 Cottonwood Drive,267-604-3112
+86,Beverlie,8 Oak Valley Street,966-833-8734
+87,Curran,78781 Dunning Trail,438-399-9727
+88,Parke,25 Golden Leaf Place,646-176-9724
+89,Ora,24963 Holy Cross Trail,572-749-9460
+90,Carin,3334 Westridge Road,761-932-4928
+91,Ambrose,1302 Green Ridge Avenue,765-393-9974
+92,Kleon,08 Gerald Park,405-528-2475
+93,Jourdan,01385 Spenser Junction,591-137-7772
+94,Rebeka,887 Hazelcrest Way,839-104-6337
+95,Elmo,801 Dennis Road,356-415-8160
+96,Carita,87 Northfield Point,664-571-5800
+97,Ester,8 Fair Oaks Plaza,939-694-1097
+98,Myrtie,322 Susan Point,152-953-1830
+99,Lynnea,94 Main Center,688-202-3415
+100,Ermentrude,81 Kensington Point,670-392-6418
+101,Rand,9 Blaine Avenue,155-144-2255
+102,Eldridge,623 Moulton Avenue,619-289-8737
+103,Lory,24 Toban Trail,500-298-8526
+104,Ernesta,3 Moulton Avenue,408-859-1154
+105,Avram,773 Judy Crossing,276-711-9434
+106,Bernadina,4445 Debra Point,578-594-2484
+107,Emelda,96 Glendale Drive,984-348-0242
+108,Taryn,333 Truax Circle,330-101-7741
+109,Matthieu,05 Commercial Junction,480-154-4224
+110,Stern,3 2nd Hill,187-535-3128
+111,Deena,472 Southridge Center,876-985-9951
+112,Dorotea,56518 Service Terrace,955-846-1890
+113,Joanne,4580 Nevada Way,602-580-0305
+114,Hort,9074 Crest Line Pass,827-274-6608
+115,Rachael,50873 Golden Leaf Hill,601-277-4887
+116,Jarib,4940 Oak Valley Place,643-224-6407
+117,Wallace,676 Harbort Park,863-809-6759
+118,Brennan,291 Hoepker Park,683-570-2642
+119,Batsheva,13895 Pearson Terrace,897-358-0796
+120,Sabra,83797 Roth Parkway,859-712-4458
+121,Casper,57828 Amoth Plaza,470-706-5508
+122,Rasla,5 Crowley Pass,152-514-4302
+123,Rafael,65677 Brickson Park Avenue,271-579-9854
+124,Clyve,48 Brentwood Lane,614-707-8644
+125,Jordain,5564 Mitchell Avenue,608-468-6405
+126,Milena,1 Orin Terrace,931-329-2174
+127,Angie,7 Pleasure Drive,529-529-3768
+128,Henri,96 Hayes Way,534-101-7773
+129,Roddie,7662 Pine View Street,921-747-2652
+130,Kirby,8315 Brown Pass,597-502-5504
+131,Amalie,68141 Westend Drive,854-537-5284
+132,Jacqui,207 Logan Point,775-581-3293
+133,Yvette,9080 Northland Trail,553-354-7519
+134,Krystal,248 Rieder Road,901-379-7703
+135,Eugine,3 Vermont Pass,154-626-7109
+136,Caressa,651 Sundown Alley,951-855-4920
+137,Zita,2 Armistice Road,979-166-6973
+138,Linoel,24 Londonderry Terrace,397-184-0295
+139,Rourke,7 Calypso Park,837-455-8903
+140,Celie,6 Loftsgordon Pass,932-863-6284
+141,Sibella,86 Eggendart Avenue,700-223-6114
+142,Laurence,36021 High Crossing Trail,115-706-6197
+143,Farica,519 Loftsgordon Circle,737-608-5521
+144,Yancy,89884 Transport Lane,456-514-6861
+145,Nikkie,77785 Emmet Drive,935-219-9010
+146,Denny,33 Hallows Center,773-410-1732
+147,Bogart,1302 Northridge Trail,516-307-1204
+148,Lynna,7 Trailsway Alley,387-342-6394
+149,Benedicta,410 Graedel Center,366-178-1095
+150,Bary,40 Nevada Place,169-349-3226
+151,Chariot,451 Leroy Drive,361-648-0153
+152,Standford,75451 Utah Terrace,423-262-4968
+153,Estella,9295 Armistice Park,845-545-5568
+154,Sonny,2210 Loftsgordon Parkway,689-486-0091
+155,Jacqueline,697 Lotheville Parkway,281-664-2697
+156,Janet,9 Hoard Lane,297-587-9913
+157,Horten,29 Westridge Way,758-341-3143
+158,Randee,18701 Farragut Hill,222-643-6907
+159,Aviva,22791 Ridge Oak Trail,270-678-9406
+160,Tobi,452 Corben Point,657-628-2986
+161,Tansy,6 Lyons Alley,528-135-4689
+162,Alex,51488 Mariners Cove Pass,324-278-6310
+163,Petra,1 Namekagon Terrace,690-146-4000
+164,Colleen,04740 Mcbride Parkway,181-925-5431
+165,Alanah,2 Karstens Way,445-107-6646
+166,Lenci,5 Goodland Circle,557-579-6251
+167,Florian,57 Cambridge Road,454-538-5235
+168,Gan,331 Gateway Road,358-200-8734
+169,Emlen,9 Moulton Junction,377-379-0477
+170,Dael,8 Vermont Plaza,391-858-7891
+171,Kamilah,667 Jenna Pass,157-619-3747
+172,Bonnee,0 Fairview Junction,350-781-7218
+173,Irina,95028 Oneill Pass,884-775-2556
+174,Andi,8 Daystar Drive,668-927-7985
+175,Berget,52615 Warner Place,981-285-8282
+176,Skip,84 Caliangt Center,587-628-5180
+177,Dino,86998 Armistice Center,655-532-3039
+178,Fin,399 Hauk Junction,583-427-2258
+179,Carlin,771 2nd Road,670-504-5177
+180,Felisha,611 Village Street,990-452-6857
+181,Tadeo,388 Shasta Crossing,905-694-6850
+182,Englebert,13 Burning Wood Drive,473-176-0336
+183,Joete,12389 Thackeray Plaza,753-820-4124
+184,Mufi,49032 Browning Lane,701-773-2434
+185,Emelita,18 Surrey Terrace,866-251-8652
+186,Gae,58 Kenwood Hill,367-166-5157
+187,Sorcha,6 Lake View Hill,693-735-2653
+188,Karalee,1 Cottonwood Road,405-708-0536
+189,Anissa,83 Rockefeller Circle,927-695-5656
+190,Alessandra,578 Shelley Parkway,824-339-9338
+191,Dorolice,8 Susan Trail,651-338-5397
+192,Merell,6 Manley Crossing,895-621-0264
+193,Alexina,2929 Steensland Hill,768-710-9545
+194,Prentiss,10423 Graceland Place,719-653-3533
+195,Lucas,8 Sachs Way,464-802-5438
+196,Korella,5 Toban Plaza,205-206-2060
+197,Ira,542 Butternut Junction,111-853-0874
+198,Cad,90 Declaration Drive,312-907-9444
+199,Lucine,79 Clyde Gallagher Alley,636-785-8055
+200,Erl,9 Mccormick Circle,939-878-1369

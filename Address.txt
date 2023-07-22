@@ -1,0 +1,201 @@
+Address_ID,Street_Address,City,Country
+1,29350 Delladonna Park,Santiago de Cuba,Cuba
+2,89 Dovetail Road,Curepipe,Mauritius
+3,63 Warner Lane,Cambebba,Brazil
+4,0877 Derek Court,Telgawah,Indonesia
+5,7 Cottonwood Plaza,Maliiha,Indonesia
+6,4209 Killdeer Parkway,Gevgelija,Macedonia
+7,440 Oakridge Trail,Zambrów,Poland
+8,9 Dixon Junction,Jayaraga Kaler,Indonesia
+9,83556 Redwing Drive,K’ulashi,Georgia
+10,46648 Mallard Road,Kharbathā Banī Ḩārith,Palestinian Territory
+11,83 Surrey Trail,Huangjindong,China
+12,17078 Carioca Lane,Tambakbaya,Indonesia
+13,9 Katie Court,Ukhta,Russia
+14,1798 Mockingbird Avenue,Ghormach,Afghanistan
+15,151 Dryden Parkway,Gävle,Sweden
+16,99420 Dahle Parkway,Novopavlovsk,Russia
+17,5384 West Street,Luoshe,China
+18,8 Saint Paul Crossing,Dakhla,Western Sahara
+19,681 Cherokee Lane,Ivano-Frankove,Ukraine
+20,6 Birchwood Trail,Hexi,China
+21,2469 Melody Hill,Périgueux,France
+22,22419 Bartillon Pass,Sapucaia,Brazil
+23,9439 Anderson Avenue,Pasadena,Canada
+24,8 Hudson Lane,Warungbuah,Indonesia
+25,7244 Grover Junction,Eman,China
+26,92892 Express Terrace,Dalgān,Iran
+27,713 Artisan Center,Halteu,Indonesia
+28,76 Hansons Pass,Täby,Sweden
+29,128 Fremont Pass,Buldon,Philippines
+30,5 Sutteridge Center,Zhangping,China
+31,3 Kennedy Parkway,Orléans,France
+32,71071 Crescent Oaks Circle,Lakeland,United States
+33,0 Maywood Point,Saaban,Philippines
+34,19794 Trailsway Point,Laborie,Saint Lucia
+35,34730 Veith Pass,Barice,Bosnia and Herzegovina
+36,36 Autumn Leaf Crossing,Kungshamn,Sweden
+37,786 Havey Lane,Independencia,Mexico
+38,31329 Vidon Point,Pilluana,Peru
+39,99786 Dottie Park,Pułtusk,Poland
+40,6851 3rd Drive,Älvsjö,Sweden
+41,52 Old Gate Point,Selouane,Morocco
+42,61 Blaine Junction,Ursus,Poland
+43,154 Corscot Hill,Sarykemer,Kazakhstan
+44,02 Fuller Parkway,Odienné,Ivory Coast
+45,068 Claremont Junction,Cahuac,Peru
+46,93 Corben Hill,Hongkou,China
+47,3726 5th Street,Walichnowy,Poland
+48,6 Birchwood Way,Jeding,Indonesia
+49,6 Sunbrook Pass,Caluire-et-Cuire,France
+50,32 Vidon Lane,Montigny-lès-Metz,France
+51,96 Mcbride Terrace,Hinthada,Myanmar
+52,8 Anniversary Trail,David,Panama
+53,87583 West Street,Alvarães,Brazil
+54,703 Texas Junction,San Miguel,Philippines
+55,9366 Nobel Street,Xiejia,China
+56,86 Commercial Trail,Sukawening,Indonesia
+57,9875 Judy Center,Michurinskoye,Russia
+58,5794 Messerschmidt Hill,Nikita,Ukraine
+59,85 Hoard Street,Ādam,Oman
+60,4 Riverside Circle,Várzea Paulista,Brazil
+61,2 Lakewood Way,Chalon-sur-Saône,France
+62,64620 Sachtjen Park,Pinghu,China
+63,339 8th Pass,Athabasca,Canada
+64,1310 Tomscot Street,Kadyy,Russia
+65,229 Village Circle,Nuevitas,Cuba
+66,5 Clove Terrace,Mizhhir’ya,Ukraine
+67,18 Stuart Point,Domalanoan,Philippines
+68,413 Doe Crossing Point,Hongkou,China
+69,4 Mallard Center,Canela,Brazil
+70,10986 Canary Court,Asyūţ,Egypt
+71,594 Sutteridge Crossing,København,Denmark
+72,3 Welch Hill,Kuala Lumpur,Malaysia
+73,5912 Towne Junction,Le Lamentin,Martinique
+74,22394 Gerald Park,Tsuma,Japan
+75,5 Hanover Park,Gudja,Malta
+76,258 Marcy Way,Pyhäjoki,Finland
+77,60 Coolidge Plaza,Uppsala,Sweden
+78,650 Bultman Alley,Åhus,Sweden
+79,2 Birchwood Trail,Salamanca,Spain
+80,1 Old Shore Alley,Guinabsan,Philippines
+81,7 Lakewood Place,Nowe Miasto,Poland
+82,3 New Castle Hill,Capelinha,Brazil
+83,10 Barby Lane,Boulsa,Burkina Faso
+84,8561 Grover Hill,Vahdat,Tajikistan
+85,1302 Iowa Parkway,Buracan,Philippines
+86,475 Bonner Way,Teresópolis,Brazil
+87,7805 Pond Circle,Jednorożec,Poland
+88,75445 Bunting Lane,Shinpokh,Pakistan
+89,189 Westerfield Road,Masindi,Uganda
+90,0 Victoria Center,Kabalen,Philippines
+91,6877 Northwestern Pass,Braço do Norte,Brazil
+92,70 Elka Road,Beloostrov,Russia
+93,95 Harbort Road,Manding,Indonesia
+94,45910 American Avenue,Panan,Philippines
+95,8 Service Street,Xinxing,China
+96,845 Stephen Point,Kijang,South Korea
+97,613 Grayhawk Drive,Changtian,China
+98,44 Kedzie Way,Laraos,Peru
+99,5 Utah Road,Xinchang,China
+100,47462 Kipling Pass,Jajawai,Indonesia
+101,4 Surrey Lane,Berdorf,Luxembourg
+102,362 Hoepker Road,Guangli,China
+103,11221 Ryan Circle,Pamotan,Indonesia
+104,6787 Hanover Court,Tangzhai,China
+105,72 Blackbird Lane,Lingyuan,China
+106,8932 Maple Wood Hill,Hengxi,China
+107,73 Bunker Hill Crossing,Ciseda,Indonesia
+108,36536 Morning Road,Predavac,Croatia
+109,19 Springview Drive,Farsta,Sweden
+110,46 Hollow Ridge Parkway,Qaryat al Qābil,Yemen
+111,54631 Pennsylvania Parkway,Sancha,China
+112,545 Roth Terrace,Golbey,France
+113,77 Twin Pines Plaza,Yumbel,Chile
+114,5 Rutledge Way,Zuoxi,China
+115,064 Butterfield Hill,Tarauacá,Brazil
+116,3 Randy Park,Xylaganí,Greece
+117,2140 3rd Place,Tours,France
+118,2199 Luster Avenue,Savé,Benin
+119,9 Washington Street,Niu,China
+120,32060 Doe Crossing Center,Xiaxihao,China
+121,2 Main Road,Perfilovo,Russia
+122,775 Kinsman Avenue,Pietà,Malta
+123,495 Blackbird Park,Pantanal,Brazil
+124,3024 Dovetail Terrace,Yong’an,China
+125,0 Sauthoff Alley,Arkhaía Kórinthos,Greece
+126,5 Warbler Court,Labin,Croatia
+127,46046 Dovetail Trail,Kufayrit,Palestinian Territory
+128,62 Dapin Parkway,Lundo,Indonesia
+129,83 Carberry Place,Imtarfa,Malta
+130,40 Lakewood Avenue,Moravský Beroun,Czech Republic
+131,1 Marcy Point,Thap Khlo,Thailand
+132,2 Dawn Park,Modřice,Czech Republic
+133,3203 East Park,Concepción,Guatemala
+134,78 Mayer Lane,Tangchijie,China
+135,3274 Onsgard Hill,Koźle,Poland
+136,89 Kropf Center,Joinville,Brazil
+137,06205 Hazelcrest Trail,Tangjiakou,China
+138,9 Superior Trail,Tanjung Pandan,Indonesia
+139,3462 Welch Center,Perivólia,Cyprus
+140,90454 Gulseth Trail,Zlataritsa,Bulgaria
+141,594 Dakota Crossing,Şanā’,Yemen
+142,40 Mallard Road,Yanda Bayo,Nigeria
+143,991 Pond Circle,Artashat,Armenia
+144,6 Northfield Avenue,Nanqi,China
+145,2 Farragut Avenue,Káto Asítai,Greece
+146,57237 Forest Run Street,Tsowkêy,Afghanistan
+147,25671 New Castle Lane,Az Zabadānī,Syria
+148,95 Marquette Drive,General Elizardo Aquino,Paraguay
+149,38 Blue Bill Park Avenue,Zhongdong,China
+150,03993 John Wall Parkway,Alcaria da Serra,Portugal
+151,8 Hansons Point,Balekersukamaju,Indonesia
+152,44 1st Avenue,Monte Novo,Portugal
+153,234 Schlimgen Way,Solna,Sweden
+154,47827 Harbort Plaza,Hovězí,Czech Republic
+155,75287 Shoshone Place,Wonodadi,Indonesia
+156,2 Lindbergh Way,Taocheng,China
+157,9 Lake View Plaza,Krajan,Indonesia
+158,7379 Toban Avenue,Gorzów Śląski,Poland
+159,0632 Wayridge Crossing,Zaragoza,El Salvador
+160,45908 Oxford Center,Dzwola,Poland
+161,10 Commercial Drive,Všetaty,Czech Republic
+162,776 Warbler Trail,Korsun’-Shevchenkivs’kyy,Ukraine
+163,8808 Steensland Parkway,Dohār,Bangladesh
+164,853 Lotheville Plaza,Kuching,Malaysia
+165,24 Monica Hill,El Paso,United States
+166,46 Waxwing Lane,Inkerman,Ukraine
+167,1 Merrick Place,Sanli,China
+168,29269 Lakewood Lane,Irecê,Brazil
+169,22 Onsgard Center,Morelos,Mexico
+170,66873 Starling Place,Sykiés,Greece
+171,86976 Carpenter Drive,Mount Ayliff,South Africa
+172,893 Stuart Way,Syktyvkar,Russia
+173,040 Eggendart Point,Kirove,Ukraine
+174,99280 Maryland Center,Paradahan,Philippines
+175,939 Starling Hill,Enskede,Sweden
+176,27339 Kinsman Crossing,Yartsevo,Russia
+177,296 Debra Place,Vahdat,Tajikistan
+178,1 Pearson Drive,Sutton,Canada
+179,7 Coleman Terrace,Cilolongokan,Indonesia
+180,9416 Vera Way,Labuhantanggabesar,Indonesia
+181,99515 Kim Point,Göteborg,Sweden
+182,48 Cottonwood Road,Mayhan,Mongolia
+183,0327 Prairieview Lane,Semamung,Indonesia
+184,06 Becker Parkway,Oygon,Mongolia
+185,5608 Rowland Pass,Jugezhuang,China
+186,1735 Mesta Junction,Registro,Brazil
+187,52238 Southridge Hill,Pak Phanang,Thailand
+188,156 Shopko Center,Knežica,Bosnia and Herzegovina
+189,00 Duke Circle,Krajan,Indonesia
+190,7 Pearson Point,Cabouco,Portugal
+191,732 Everett Parkway,Bat Khela,Pakistan
+192,65 Division Street,Zongjia,China
+193,20 Manitowish Crossing,Capioví,Argentina
+194,11 Claremont Center,Phoenix,United States
+195,25278 Fisk Plaza,Kitāf,Yemen
+196,6 Dayton Way,Cerro Punta,Panama
+197,05 Hermina Avenue,Jasienica,Poland
+198,754 Grayhawk Avenue,Novoselec,Croatia
+199,54814 Eliot Center,Panitian,Philippines
+200,506 Towne Junction,Buluh Kasap,Indonesia

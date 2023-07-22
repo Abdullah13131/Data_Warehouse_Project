@@ -1,0 +1,201 @@
+Location_ID,City,Country,Country_code
+1,Al Hadā,Saudi Arabia,SA
+2,Ohafia-Ifigh,Nigeria,NG
+3,Igbor,Nigeria,NG
+4,Šentrupert,Slovenia,SI
+5,Bałtów,Poland,PL
+6,Nong Phai,Thailand,TH
+7,Tantu,China,CN
+8,Aygestan,Armenia,AM
+9,Cermee,Indonesia,ID
+10,Châteaurenard,France,FR
+11,Krzyżanowice,Poland,PL
+12,Bebedouro,Brazil,BR
+13,Santa Maria,Philippines,PH
+14,San Isidro,Mexico,MX
+15,Bacalan,Philippines,PH
+16,Três Coroas,Brazil,BR
+17,Brwinów,Poland,PL
+18,Huangnaihai,China,CN
+19,Calauan,Philippines,PH
+20,Gjilan,Kosovo,XK
+21,Sanjiang,China,CN
+22,Vaudreuil-Dorion,Canada,CA
+23,Sitampiky,Madagascar,MG
+24,Qal‘ah-ye Fārsī,Afghanistan,AF
+25,Burgos,Philippines,PH
+26,Xiheshan,China,CN
+27,Quimbaya,Colombia,CO
+28,Mirimire,Venezuela,VE
+29,Yakovlevskoye,Russia,RU
+30,Oslo,Norway,NO
+31,Ueki,Japan,JP
+32,Bangil,Indonesia,ID
+33,Grugul,Indonesia,ID
+34,Darnah,Libya,LY
+35,Fukumitsu,Japan,JP
+36,Bangunharja,Indonesia,ID
+37,Paniówki,Poland,PL
+38,Taramana,Indonesia,ID
+39,Poděbrady,Czech Republic,CZ
+40,Nicolet,Canada,CA
+41,Ramain,Philippines,PH
+42,Daping,China,CN
+43,Vårdö,Aland Islands,AX
+44,Obikiik,Tajikistan,TJ
+45,Ngoc Hon Doc,Vietnam,VN
+46,Drakhtik,Armenia,AM
+47,Mercedes,Argentina,AR
+48,San Francisco de la Paz,Honduras,HN
+49,Nginokrajan,Indonesia,ID
+50,Pacarkeling,Indonesia,ID
+51,Ozerne,Ukraine,UA
+52,Mitrópoli,Greece,GR
+53,Tanjungbatu,Indonesia,ID
+54,Lianzhou,China,CN
+55,Cincinnati,United States,US
+56,Skanör,Sweden,SE
+57,Krajan Suko Kidul,Indonesia,ID
+58,Dayanggezhuang,China,CN
+59,Badovinci,Serbia,RS
+60,Rautjärvi,Finland,FI
+61,Kut Rang,Thailand,TH
+62,Ciladaeun,Indonesia,ID
+63,Marinilla,Colombia,CO
+64,Welisara,Sri Lanka,LK
+65,Padang,Philippines,PH
+66,Baykalovo,Russia,RU
+67,Rizhao,China,CN
+68,Hanshou,China,CN
+69,Lillehammer,Norway,NO
+70,Maagnas,Philippines,PH
+71,Lubichowo,Poland,PL
+72,Balekambang,Indonesia,ID
+73,Luohe,China,CN
+74,Ōkuchi,Japan,JP
+75,Cikujang,Indonesia,ID
+76,Mīrwāh Gorchani,Pakistan,PK
+77,Jam,Iran,IR
+78,Kulotino,Russia,RU
+79,As Sab‘ Biyār,Syria,SY
+80,Almalaguês,Portugal,PT
+81,Nerópolis,Brazil,BR
+82,Āl Ma‘ūdah,Yemen,YE
+83,Carbonear,Canada,CA
+84,Urrô,Portugal,PT
+85,Zinder,Niger,NE
+86,Pereval'noe,Ukraine,UA
+87,Maulavi Bāzār,Bangladesh,BD
+88,Soloneshnoye,Russia,RU
+89,Huatan,China,CN
+90,Oju,Nigeria,NG
+91,Nova Venécia,Brazil,BR
+92,Isiolo,Kenya,KE
+93,Gbarnga,Liberia,LR
+94,Barreiras,Portugal,PT
+95,Huanglong,China,CN
+96,Shuiyang,China,CN
+97,Anmore,Canada,CA
+98,Malianzhuang,China,CN
+99,Heishui,China,CN
+100,Lokokrangan,Indonesia,ID
+101,Vitória da Conquista,Brazil,BR
+102,Shenzhong,China,CN
+103,Liandu,China,CN
+104,Cikarang,Indonesia,ID
+105,Waipare,Indonesia,ID
+106,Suren,Indonesia,ID
+107,Jõhvi,Estonia,EE
+108,Haozigang,China,CN
+109,Velika,Croatia,HR
+110,Lanchyn,Ukraine,UA
+111,Carriedo,Philippines,PH
+112,Galaz,Morocco,MA
+113,Chengfeng,China,CN
+114,Kenscoff,Haiti,HT
+115,Itororó,Brazil,BR
+116,Bala Murghab,Afghanistan,AF
+117,Stockholm,Sweden,SE
+118,Mostek,Czech Republic,CZ
+119,Oslo,Norway,NO
+120,Cabog,Philippines,PH
+121,Mercedes,Uruguay,UY
+122,Seredeyskiy,Russia,RU
+123,Tangzi,China,CN
+124,Skoroszyce,Poland,PL
+125,Hněvotín,Czech Republic,CZ
+126,Bouaflé,Ivory Coast,CI
+127,Lluka e Eperme,Kosovo,XK
+128,Tromsø,Norway,NO
+129,Ubiaja,Nigeria,NG
+130,Petaling Jaya,Malaysia,MY
+131,Dorūd,Iran,IR
+132,Krosno,Poland,PL
+133,Bagikkedok Lauk,Indonesia,ID
+134,Zwolle,Netherlands,NL
+135,Psary,Poland,PL
+136,Stari Bohorodchany,Ukraine,UA
+137,Gaoshi,China,CN
+138,Małdyty,Poland,PL
+139,Pomichna,Ukraine,UA
+140,Malimaneek,Indonesia,ID
+141,Lundo,Indonesia,ID
+142,Żelistrzewo,Poland,PL
+143,Sumbawa Besar,Indonesia,ID
+144,Ikar,Indonesia,ID
+145,Baoziba,China,CN
+146,Iwaki,Japan,JP
+147,Arcos,Portugal,PT
+148,Sa Pá,Vietnam,VN
+149,Čáslav,Czech Republic,CZ
+150,Hangji,China,CN
+151,Santo Anastácio,Brazil,BR
+152,Cầu Giấy,Vietnam,VN
+153,El Charco,Colombia,CO
+154,Buenaventura,Colombia,CO
+155,Floirac,France,FR
+156,Wierzawice,Poland,PL
+157,Morón,Argentina,AR
+158,Osvaldo Cruz,Brazil,BR
+159,Angelochóri,Greece,GR
+160,Nam Som,Thailand,TH
+161,Burnside,United Kingdom,GB
+162,Fangqiang,China,CN
+163,Helsingborg,Sweden,SE
+164,Palaióchora,Greece,GR
+165,Kayukembang,Indonesia,ID
+166,Farroupilha,Brazil,BR
+167,Bình Minh,Vietnam,VN
+168,San Vicente Pacaya,Guatemala,GT
+169,Sapareva Banya,Bulgaria,BG
+170,Dadeldhurā,Nepal,NP
+171,Tarusan,Philippines,PH
+172,Sezimovo Ústí,Czech Republic,CZ
+173,San Carlos,Colombia,CO
+174,Des Moines,United States,US
+175,Yili,China,CN
+176,Suchen,China,CN
+177,Gaoqiao,China,CN
+178,Cà Mau,Vietnam,VN
+179,Chumpi,Peru,PE
+180,Belén,Costa Rica,CR
+181,Naekan,Indonesia,ID
+182,Monte Redondo,Portugal,PT
+183,Lamont,Canada,CA
+184,Sukapura,Indonesia,ID
+185,Oslo,Norway,NO
+186,Zhulan,China,CN
+187,Yong’an,China,CN
+188,Xiongbei,China,CN
+189,Libu,China,CN
+190,Shimorskoye,Russia,RU
+191,Néa Tríglia,Greece,GR
+192,Mancha Khiri,Thailand,TH
+193,Mont-de-Marsan,France,FR
+194,Beigong,China,CN
+195,Xinjie,China,CN
+196,Xianghu,China,CN
+197,Ibarra,Ecuador,EC
+198,Az Zintān,Libya,LY
+199,Ust’-Kachka,Russia,RU
+200,Malandag,Philippines,PH

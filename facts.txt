@@ -1,0 +1,5 @@
+Fact_ID,Shipment_ID,Address_ID,Leg_ID,Reporting_Date,Customer_ID,Location_ID,Order_ID,Product_ID,TotalAmount
+1,	18,	17,	14,	1/27/2022,	3,	34,	44,	110, 294.69
+2,	152,	146,	56,	5/2/2021,	9,	95,	45,	115, 193.86
+3,	58,	12,	48,	2/8/2022,	6,	46,	12,	120, 436.06
+1,	18,	10,	23,	12/22/2021,	110,	12,	96,	96, 818.16

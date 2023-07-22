@@ -1,0 +1,93 @@
+CREATE TABLE dimAddress
+(
+  Address_ID VARCHAR(50) NOT NULL,
+  Street_Address VARCHAR(100) NOT NULL,
+  City VARCHAR(50) NOT NULL,
+  Country VARCHAR(50) NOT NULL,
+  PRIMARY KEY (Address_ID)
+);
+
+CREATE TABLE dimRef_Calendar
+(
+  current_date DATE NOT NULL,
+  PRIMARY KEY (current_date)
+);
+
+CREATE TABLE dimCustomers
+(
+  Customer_ID VARCHAR(50) NOT NULL,
+  Customer_Name VARCHAR(50) NOT NULL,
+  Customer_Address VARCHAR(50) NOT NULL,
+  Customer_Phone VARCHAR(50) NOT NULL,
+  PRIMARY KEY (Customer_ID)
+);
+
+CREATE TABLE dimLocation
+(
+  Location_ID VARCHAR(50) NOT NULL,
+  Country_code VARCHAR(3) NOT NULL,
+  City VARCHAR(50) NOT NULL,
+  Country VARCHAR(50) NOT NULL,
+  PRIMARY KEY (Location_ID)
+);
+
+CREATE TABLE dimOrders
+(
+  Order_ID VARCHAR(50) NOT NULL,
+  Order_Details VARCHAR(100) NOT NULL,
+  Customer_ID VARCHAR(50) NOT NULL,
+  Product_ID VARCHAR(50) NOT NULL,
+  Order_Date DATE NOT NULL,
+  PRIMARY KEY (Order_ID)
+);
+
+CREATE TABLE dimProducts
+(
+  Product_ID VARCHAR(50) NOT NULL,
+  Product_Name VARCHAR(50) NOT NULL,
+  Product_Category VARCHAR(50) NOT NULL,
+  Product_Price VARCHAR(50) NOT NULL,
+  Product_Description VARCHAR(100) NOT NULL,
+  PRIMARY KEY (Product_ID)
+);
+
+CREATE TABLE dimShipment
+(
+  Shipment_ID VARCHAR(50) NOT NULL,
+  Shipment_Details VARCHAR(100) NOT NULL,
+  success VARCHAR(10) NOT NULL,
+  PRIMARY KEY (Shipment_ID)
+);
+
+CREATE TABLE dimShipment_Leg
+(
+  Leg_ID VARCHAR(50) NOT NULL,
+  Shipment_ID VARCHAR(50) NOT NULL,
+  start_leg_location VARCHAR(50) NOT NULL,
+  end_leg_location VARCHAR(50) NOT NULL,
+  document_type_code VARCHAR(20) NOT NULL,
+  document_type_description VARCHAR(50) NOT NULL,
+  PRIMARY KEY (Leg_ID)
+);
+
+CREATE TABLE Fact_Logistics
+(
+  Fact_ID VARCHAR(50) NOT NULL,
+  Address_ID VARCHAR(50) NOT NULL,
+  Reporting_Date DATE NOT NULL,
+  Customer_ID VARCHAR(50) NOT NULL,
+  Location_ID VARCHAR(50) NOT NULL,
+  Order_ID VARCHAR(50) NOT NULL,
+  Product_ID VARCHAR(50) NOT NULL,
+  Shipment_ID VARCHAR(50) NOT NULL,
+  Leg_ID VARCHAR(50) NOT NULL,
+  PRIMARY KEY (Fact_ID),
+  FOREIGN KEY (Address_ID) REFERENCES dimAddress(Address_ID),
+  FOREIGN KEY (Reporting_Date) REFERENCES dimRef_Calendar(current_date),
+  FOREIGN KEY (Customer_ID) REFERENCES dimCustomers(Customer_ID),
+  FOREIGN KEY (Location_ID) REFERENCES dimLocation(Location_ID),
+  FOREIGN KEY (Order_ID) REFERENCES dimOrders(Order_ID),
+  FOREIGN KEY (Product_ID) REFERENCES dimProducts(Product_ID),
+  FOREIGN KEY (Shipment_ID) REFERENCES dimShipment(Shipment_ID),
+  FOREIGN KEY (Leg_ID) REFERENCES dimShipment_Leg(Leg_ID)
+);

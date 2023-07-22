@@ -1,0 +1,201 @@
+Leg_ID,Shipment_ID,start_leg_location,end_leg_location,document_type_code,document_type_description
+1,1,7 Fairview Court,41 Westport Parkway,1,Xvuxxmfkqveygh
+2,2,92662 Moulton Lane,285 Dapin Street,2,Oswbnawuozlkir
+3,3,4 Lakewood Avenue,87073 Mayfield Plaza,3,Shhyfqomtzrrxq
+4,4,15312 Cascade Pass,59090 Lakeland Drive,4,Wtruoehfuqopkv
+5,5,7 Longview Park,9 Holy Cross Lane,5,Dcwjgrelpvgtco
+6,6,063 Bashford Pass,155 Bluestem Way,6,Pluwvkybobxoau
+7,7,80 Fairview Hill,5487 Norway Maple Point,7,Djynbtwskzdvti
+8,8,86372 Macpherson Court,04 John Wall Avenue,8,Iyatcuiqgmjjeo
+9,9,4367 Lakeland Junction,19623 6th Plaza,9,Inxzbastacqsxj
+10,10,5988 Ridgeway Center,6 Coleman Avenue,10,Hssktwzqdvmfmf
+11,11,9914 Green Ridge Road,344 Arrowood Avenue,11,Izucldrkpppyya
+12,12,1 Oriole Park,4 Blackbird Center,12,Igmqyqyupjvwrh
+13,13,4 Melvin Street,8 Calypso Court,13,Inwiwdkomdaome
+14,14,60 Caliangt Crossing,56486 Meadow Valley Street,14,Sdxcdhcfzgmcte
+15,15,21163 Namekagon Park,53 Shopko Crossing,15,Lrrpakbiykpaxy
+16,16,5139 Dunning Pass,02604 Dorton Court,16,Qfubdsxieurbfm
+17,17,50 Green Ridge Center,4 High Crossing Court,17,Lcluateyjyslrp
+18,18,703 Emmet Parkway,924 Monterey Crossing,18,Wzbqmxunswxesz
+19,19,6409 Division Junction,31241 Tennyson Avenue,19,Jqvztcdyhixjci
+20,20,31 Mockingbird Park,98607 Sage Center,20,Walofuhnuicuwc
+21,21,62 Kings Crossing,8 Mallard Trail,21,Tnexknjokubfle
+22,22,5 Sycamore Street,1967 Crest Line Hill,22,Zhejsojnmvbvpq
+23,23,841 Spohn Circle,9 Portage Junction,23,Oypcnaxsvtxwej
+24,24,134 Dwight Pass,5144 Dovetail Plaza,24,Vjxvwpxsuktcki
+25,25,55 Dennis Way,927 Rutledge Terrace,25,Ftlvgqslxfszqb
+26,26,784 South Court,456 Walton Parkway,26,Xvrtforfzprvru
+27,27,53844 Oriole Avenue,33 Sachtjen Center,27,Ncwpyblzinkleb
+28,28,3179 Surrey Court,29218 Hayes Circle,28,Edtxdrcnxnxftt
+29,29,94048 Independence Crossing,92050 Susan Drive,29,Djpqdclekakelm
+30,30,089 Bunker Hill Point,210 Eggendart Point,30,Vyuspkvkfkrgxl
+31,31,899 Laurel Parkway,20746 Gale Plaza,31,Fabwvhoeplffuh
+32,32,91567 Pearson Drive,1 Stephen Parkway,32,Vdolnlucemrsuu
+33,33,082 Barby Lane,4978 Vermont Park,33,Xchedbapdlutsh
+34,34,67491 Sommers Lane,1457 Farragut Point,34,Fwfllwlodcxkas
+35,35,02173 Basil Pass,0 Erie Court,35,Clegsrwxbctqeu
+36,36,59 Onsgard Road,511 Kinsman Pass,36,Zjvxrsctlmxdew
+37,37,628 Lakewood Gardens Hill,81 Dixon Parkway,37,Ezjwwqcagfcblp
+38,38,69 Karstens Alley,3251 Truax Way,38,Ccgnznznauzqic
+39,39,03086 Autumn Leaf Way,50 Bellgrove Alley,39,Lviswgguwdscgg
+40,40,407 Buell Crossing,99704 Clyde Gallagher Alley,40,Gzjmrrxodweauj
+41,41,818 Basil Terrace,57 Moose Circle,41,Mrpgifgesdjvha
+42,42,084 Larry Pass,83 Dunning Road,42,Cebnssagakemiq
+43,43,197 Hooker Court,20706 East Circle,43,Nhpmsmnsiznrgk
+44,44,53084 Forest Hill,3 Cottonwood Street,44,Gsbjeehbhvzgrd
+45,45,02 Acker Lane,94 Granby Street,45,Xjjeodthcalonn
+46,46,9383 Duke Drive,010 Morningstar Plaza,46,Yghctbbezgjmup
+47,47,492 Morningstar Trail,80559 Parkside Court,47,Tuffozlkccfigx
+48,48,76 Northport Point,683 Roth Junction,48,Iwfdznioazwubt
+49,49,11 Petterle Terrace,2705 Eagle Crest Way,49,Mgbjiqythqasgs
+50,50,8 Gina Road,297 Golden Leaf Lane,50,Apjiqsfroedtgd
+51,51,09934 Golden Leaf Court,57635 Scoville Circle,51,Vdpkqnemgnljkd
+52,52,94605 Manufacturers Crossing,88 Vidon Circle,52,Slnfdbmovmyenh
+53,53,725 Barnett Road,3198 Dixon Park,53,Jkecgfxbdebekt
+54,54,622 Village Green Pass,5562 Prairie Rose Crossing,54,Azvdaejdjpznxx
+55,55,71 Prentice Street,1520 Drewry Plaza,55,Xofzlznfwnvqcg
+56,56,19 Longview Place,53515 Bunker Hill Junction,56,Xxbbysxdirbdkf
+57,57,79424 Weeping Birch Crossing,052 Anhalt Road,57,Skhywnslegxbzn
+58,58,691 Tennessee Road,94 Garrison Road,58,Mohhshyeoqqjtj
+59,59,78 Nevada Trail,282 Hallows Way,59,Ahmwieqgtrkiqx
+60,60,89 Lyons Trail,77 Kim Trail,60,Gvziguhwyenngp
+61,61,679 Bay Terrace,98190 Lillian Crossing,61,Wimyeldjkwqmde
+62,62,84 Ridgeview Hill,834 Kinsman Center,62,Mxkuxrdbnttrdt
+63,63,5 Columbus Parkway,08 Corry Lane,63,Krveyebenfvulc
+64,64,35229 Ludington Center,70771 Lotheville Lane,64,Filxbgbtvkqulf
+65,65,8 Declaration Circle,9 Welch Street,65,Praazzzzgrmnfh
+66,66,91707 Sugar Trail,25 Helena Terrace,66,Xyjjjqqkrghicr
+67,67,31287 Park Meadow Circle,2845 Nevada Drive,67,Rmdcbhzbohlqvv
+68,68,598 Loftsgordon Avenue,50698 Dwight Point,68,Poujqavcmewmxx
+69,69,767 Tennyson Way,4 Garrison Place,69,Wbkbfqydiszjwf
+70,70,989 Linden Place,63 Katie Pass,70,Wvzblsqrijlvnh
+71,71,55 Manitowish Trail,75559 Jenna Plaza,71,Dywahvicsgpayx
+72,72,011 Dexter Park,06569 Maryland Park,72,Erptzbmvslvfdr
+73,73,4612 Killdeer Alley,3523 Emmet Terrace,73,Qxdkyjfauxilyb
+74,74,56651 Kings Terrace,9064 Service Terrace,74,Nfrdjsjspegzsl
+75,75,256 Pankratz Crossing,06888 Prairie Rose Place,75,Bmxegtywurhfhh
+76,76,7 Elka Street,322 Truax Court,76,Kfdyjzhcltoqkz
+77,77,539 Golf View Junction,73 Kingsford Way,77,Kkiajojsbnhyvq
+78,78,77 Mandrake Road,77204 North Junction,78,Jsekgsmeciwjka
+79,79,66054 Fairfield Plaza,7 Corben Alley,79,Mdaspccxdioxvx
+80,80,85601 Nelson Way,74095 Memorial Hill,80,Xrxrtvybakexkk
+81,81,552 Londonderry Crossing,1 Westerfield Junction,81,Mvcqtgeqlqyuyt
+82,82,50405 Truax Road,1 Laurel Crossing,82,Ycpcwshwwoqxpu
+83,83,652 Graceland Point,431 Myrtle Way,83,Bdcgktzpksulff
+84,84,09241 Longview Way,422 Lotheville Park,84,Rlnngqmvokmtwn
+85,85,92291 Comanche Lane,084 Meadow Ridge Park,85,Zwasjqjnadprvk
+86,86,572 Thackeray Center,92136 Hintze Court,86,Tnansznisfuibi
+87,87,10651 Oxford Parkway,03 Ilene Park,87,Erubtgmttvsuio
+88,88,27619 Marcy Crossing,4044 Summer Ridge Avenue,88,Okvvrytktltfrl
+89,89,114 Lakewood Trail,1735 Goodland Park,89,Cpnfwhynixkyuj
+90,90,151 Parkside Place,15821 Eastlawn Circle,90,Gdejxdyxrtbkfn
+91,91,72 Lukken Hill,62 Orin Drive,91,Wkzbjbczbbazva
+92,92,1680 Kropf Avenue,921 Stephen Way,92,Gduzeefxvsludd
+93,93,165 Pine View Junction,25 Old Gate Plaza,93,Sbuszrzekntmkd
+94,94,57135 Green Drive,63 6th Way,94,Hwmvbpxcivglie
+95,95,873 Eggendart Plaza,5 Declaration Place,95,Kthdijozdmxtme
+96,96,67600 Sommers Hill,32 Duke Road,96,Pmixhzwndklgrs
+97,97,3178 Park Meadow Drive,0209 Del Mar Hill,97,Bdnupddulbfwjs
+98,98,7 Schmedeman Street,93871 Raven Lane,98,Gbytccxsybmlff
+99,99,5 Sauthoff Place,947 Summerview Pass,99,Qqgkbcjvefrvfd
+100,100,6915 Burrows Lane,4 Walton Avenue,100,Rghpyqvngwbekl
+101,101,461 Ludington Drive,81527 Pierstorff Avenue,101,Sklvunjjmitrcl
+102,102,41998 Scofield Parkway,83 Corben Street,102,Xwaykxgjkozqav
+103,103,268 Truax Drive,905 Mayfield Hill,103,Jrhgmygyktmarg
+104,104,45 Fuller Point,1365 Morning Point,104,Jifrjusyzcbvrp
+105,105,2 Sycamore Hill,68249 1st Avenue,105,Ablnkqeeljkwfc
+106,106,36291 Petterle Park,96450 Delaware Court,106,Aubsyqgisanghs
+107,107,58451 Quincy Crossing,75 Butternut Lane,107,Memcsescxemabo
+108,108,12589 Corscot Hill,1 Doe Crossing Road,108,Rzruretkhryciy
+109,109,6343 Service Court,6 Northview Crossing,109,Qkstqysagacaba
+110,110,813 Merchant Trail,6 Namekagon Plaza,110,Orwstlmmcpmoyj
+111,111,0 Graceland Circle,9376 Farmco Crossing,111,Izfvvhdodeqnsz
+112,112,42 Jay Road,930 Ilene Parkway,112,Yfzpobvhnhklqt
+113,113,92146 Mitchell Park,39333 North Parkway,113,Giwgzsftytbfzn
+114,114,0165 Heffernan Place,7 Montana Park,114,Delyzmwqxjixnj
+115,115,2378 Upham Park,97928 Sundown Crossing,115,Lgwzjhqduvkxbw
+116,116,5 Farragut Point,34216 Becker Plaza,116,Qmmpgveivisfun
+117,117,84 Knutson Pass,82022 Hintze Circle,117,Vyxiljhokdqitq
+118,118,9747 Coleman Park,26436 Autumn Leaf Pass,118,Ovahbkkzfmygsq
+119,119,2 Hoffman Avenue,2 Walton Lane,119,Adabcllinnfeqr
+120,120,8 Vahlen Road,13238 Mitchell Lane,120,Lofgheqqxwdvgl
+121,121,5798 Redwing Crossing,01 Lyons Trail,121,Hlguyvxyktyffv
+122,122,9 Shelley Plaza,667 Mosinee Terrace,122,Hjjuzkaaautdxz
+123,123,942 Cascade Junction,962 Calypso Lane,123,Vcbublvcjetgue
+124,124,32237 Lake View Place,69903 Tennessee Crossing,124,Kflphfdhkxietr
+125,125,69315 Michigan Lane,85407 Melby Road,125,Vohuzofdafaltz
+126,126,70836 Bluejay Center,4 Lerdahl Hill,126,Kouhskygalajms
+127,127,5098 Jay Circle,63 Glendale Point,127,Srayzvsdtosfvu
+128,128,2 Welch Circle,5 Clove Crossing,128,Jekvfisanmkrim
+129,129,6746 Birchwood Road,96929 Cherokee Pass,129,Hqksorvfurbccp
+130,130,31 Old Shore Drive,6065 Hansons Court,130,Dezsyutymeerct
+131,131,19 Forster Point,8851 Corscot Road,131,Vfbwupczedsozk
+132,132,0634 Burrows Terrace,460 Stang Pass,132,Urotepdxsbmdfq
+133,133,1464 David Point,6954 Evergreen Center,133,Nlnnkebuvdgtiw
+134,134,0 Jenna Pass,20715 Hudson Street,134,Fauuyegfukgcov
+135,135,14 Miller Trail,460 Susan Lane,135,Rxqxdthdnmdxsz
+136,136,5 Bayside Plaza,3 Porter Park,136,Hpkzdzrvjqbwyb
+137,137,0 Mayfield Junction,25484 Northport Place,137,Byaiotcrxxpygu
+138,138,2 Corry Hill,49 Lindbergh Alley,138,Grmuudygaaxpvk
+139,139,83 Utah Hill,2 Talmadge Crossing,139,Ymwpfygouuyisx
+140,140,2 Golf Course Terrace,07021 Mallard Plaza,140,Vfxztfyxtjexqh
+141,141,0 Golf Course Plaza,0789 Steensland Plaza,141,Iribhcgupkhrtm
+142,142,58 Wayridge Circle,491 Hoffman Road,142,Odwatqpndesygp
+143,143,40 Swallow Avenue,45239 Fallview Road,143,Htzrcktyiwjzhm
+144,144,5548 Lien Center,35 Westend Plaza,144,Gadxwismbeflen
+145,145,2148 Oak Valley Trail,5 Crest Line Court,145,Tdgaecqlcrkfpg
+146,146,9 Surrey Court,3846 Ridgeway Park,146,Adretbmspnjwxg
+147,147,7 Kedzie Alley,621 6th Road,147,Jtwzliqsuchsjg
+148,148,37412 Vidon Alley,783 Armistice Trail,148,Tkhfynqgzkfpsl
+149,149,66 Graceland Junction,3394 Montana Avenue,149,Aoyqvezxajnwgh
+150,150,12489 Drewry Alley,4 Prentice Parkway,150,Pgzthukkvdcawm
+151,151,7837 Fisk Hill,4202 Logan Road,151,Rbqxkpzycalcpz
+152,152,927 Northland Plaza,89 Crownhardt Road,152,Snnqwtdgcogbig
+153,153,3 Lawn Point,7 Walton Point,153,Bkssojlxnjvgdu
+154,154,1 Anhalt Point,4410 Cordelia Alley,154,Auzfyycdiaskth
+155,155,04 Harbort Avenue,9 Buell Point,155,Vblmjdxzdoambb
+156,156,48 Sunbrook Point,327 Montana Alley,156,Tlqdvzldtfdxup
+157,157,84600 Scofield Park,5 Trailsway Parkway,157,Fcnnfzbmgxvbzr
+158,158,21 Riverside Hill,95 Quincy Parkway,158,Yzuwolhqxducid
+159,159,1376 Rigney Hill,0733 Towne Terrace,159,Xvsfgnxxvtehuo
+160,160,00982 Carberry Point,36 Harper Terrace,160,Lvimjlodfwgmhc
+161,161,929 Grim Court,0545 La Follette Hill,161,Jwzqaroojslsyu
+162,162,16382 Macpherson Road,1 Harbort Court,162,Mqhmwbdicpajdi
+163,163,3 Rieder Lane,95 Pepper Wood Street,163,Gnuaknezijqllc
+164,164,771 Stuart Park,87041 Esker Point,164,Xcwidhmqomisrq
+165,165,98 Mayer Parkway,620 Cascade Park,165,Mkxcjipwhuxhwk
+166,166,6489 Burning Wood Street,19688 Hoard Terrace,166,Kzouoxkvvdqivx
+167,167,43 Schiller Drive,27496 Lien Parkway,167,Wsqxpkpgaathez
+168,168,5916 Mandrake Drive,69 Declaration Lane,168,Zfmeyuqvajhqya
+169,169,8 New Castle Lane,28 Leroy Way,169,Llcbcfeuypotjc
+170,170,51310 Holy Cross Place,36 Scofield Avenue,170,Uouvjdbvukslkl
+171,171,2178 Ohio Junction,707 Farwell Circle,171,Nbcdcrmfwobvji
+172,172,2 Sauthoff Drive,20 Mandrake Avenue,172,Scixdvoletnaji
+173,173,91 Golden Leaf Center,475 Vahlen Parkway,173,Nciavedsmcppii
+174,174,832 Clove Drive,0077 Erie Street,174,Atmeipjpbdosta
+175,175,36 Sundown Crossing,23 Troy Street,175,Obyapwycumhesr
+176,176,83 Dahle Place,42 Dixon Place,176,Wlkwgizfslkcpm
+177,177,0882 Superior Park,709 Lakewood Gardens Lane,177,Fjcrkhyrxyljmy
+178,178,280 Lien Center,0 Rigney Hill,178,Fnuuxlsqldstmf
+179,179,958 Northview Way,413 Bartelt Alley,179,Rsywrtzldwbdcu
+180,180,42 Anhalt Junction,49777 Little Fleur Parkway,180,Bexshaiwwlcpfh
+181,181,5277 Susan Avenue,635 Maywood Circle,181,Ngiaqkheqkuega
+182,182,674 Forest Trail,820 Washington Road,182,Lsivcnfaawuskw
+183,183,16652 Eggendart Point,84859 Golden Leaf Avenue,183,Pqrjxdvuopykrt
+184,184,10729 Elka Avenue,45 Roth Park,184,Qygqiuywryzitt
+185,185,49 Gateway Center,680 Havey Lane,185,Rycbxolgxjaoqq
+186,186,25565 Towne Circle,9239 Moland Center,186,Tqtwltwngpthip
+187,187,293 Elka Pass,64692 Arapahoe Alley,187,Cwygbopfnoqfnk
+188,188,1110 Browning Crossing,2725 Westend Pass,188,Ehbbrlcgrrrilo
+189,189,06523 Surrey Crossing,8 Brentwood Hill,189,Quybzuyxgodjag
+190,190,9 Burrows Crossing,427 Monument Junction,190,Kyilqgbyrdqizd
+191,191,741 Sachtjen Circle,1588 Ridgeway Point,191,Whsiwmcwrrwvny
+192,192,333 Melvin Hill,979 Michigan Street,192,Fbjunfrviuapdz
+193,193,1 Dwight Way,154 David Circle,193,Oojrkcpwhroxll
+194,194,4159 Kipling Plaza,81958 Montana Avenue,194,Mvyapoynzcvrbq
+195,195,060 Old Gate Trail,7 Mockingbird Court,195,Zfohwszydphoxd
+196,196,063 Elmside Hill,9520 Hazelcrest Trail,196,Wqzavjyzwjsffg
+197,197,0 Tennessee Way,524 Eastwood Trail,197,Rpeerkvzwyxbix
+198,198,158 Melby Junction,60889 Shoshone Trail,198,Zvmcnzamfuiqfi
+199,199,8126 Karstens Trail,93 Golf View Plaza,199,Xrvvrzavhlqmqa
+200,200,643 Farmco Way,55 Bunker Hill Court,200,Kyfwbrrfvrpqfz
